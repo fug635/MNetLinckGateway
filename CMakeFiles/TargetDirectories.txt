@@ -1,0 +1,10 @@
+C:/Users/RomaA/Documents/MNetLinckGateway/CMakeFiles/MNode.dir
+C:/Users/RomaA/Documents/MNetLinckGateway/CMakeFiles/mnetgw.dir
+C:/Users/RomaA/Documents/MNetLinckGateway/CMakeFiles/test_mnode.dir
+C:/Users/RomaA/Documents/MNetLinckGateway/CMakeFiles/test.dir
+C:/Users/RomaA/Documents/MNetLinckGateway/CMakeFiles/edit_cache.dir
+C:/Users/RomaA/Documents/MNetLinckGateway/CMakeFiles/rebuild_cache.dir
+C:/Users/RomaA/Documents/MNetLinckGateway/CMakeFiles/list_install_components.dir
+C:/Users/RomaA/Documents/MNetLinckGateway/CMakeFiles/install.dir
+C:/Users/RomaA/Documents/MNetLinckGateway/CMakeFiles/install/local.dir
+C:/Users/RomaA/Documents/MNetLinckGateway/CMakeFiles/install/strip.dir

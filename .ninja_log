@@ -1,0 +1,24 @@
+# ninja log v6
+14	399	8127805571348513	CMakeFiles/mnetgw.dir/app/mnetgw.c.obj	7caaf4afbd5f5b43
+2	407	8127805571153056	CMakeFiles/MNode.dir/core/MNode.c.obj	6aa8b30dfbbdcb43
+408	579	8127805575292018	libMNode.a	bc770814e1d37acc
+23	1522	8127805571450746	CMakeFiles/test_mnode.dir/tests/test_mnode.cpp.obj	27afa22e2e5dda5e
+1524	1663	8127805586445895	test_mnode.exe	431b157f2a230bf3
+18	1769	8127805571383207	CMakeFiles/mnetgw.dir/app/platform_win.c.obj	b099f5784ffa01ab
+1771	1874	8127805588912502	mnetgw.exe	829b27b8053731c8
+74	756	8127985004124483	CMakeFiles/mnetgw.dir/app/mnetgw.c.obj	7caaf4afbd5f5b43
+27	763	8127985003652954	CMakeFiles/MNode.dir/core/MNode.c.obj	6aa8b30dfbbdcb43
+763	950	8127985011012501	libMNode.a	bc770814e1d37acc
+951	1292	8127985012892260	mnetgw.exe	829b27b8053731c8
+78	1651	8127985004159571	CMakeFiles/test_mnode.dir/tests/test_mnode.cpp.obj	27afa22e2e5dda5e
+1651	1785	8127985019893601	test_mnode.exe	431b157f2a230bf3
+24	331	8127997423407727	CMakeFiles/mnetgw.dir/app/mnetgw.c.obj	7caaf4afbd5f5b43
+13	356	8127997423297450	CMakeFiles/MNode.dir/core/MNode.c.obj	6aa8b30dfbbdcb43
+356	472	8127997426728547	libMNode.a	bc770814e1d37acc
+28	877	8127997423457722	CMakeFiles/test_mnode.dir/tests/test_mnode.cpp.obj	27afa22e2e5dda5e
+12	136	8127997565651935	mnetgw.exe	829b27b8053731c8
+18	152	8127997565722066	test_mnode.exe	431b157f2a230bf3
+9	817	8127997678673828	CMakeFiles/test_mnode.dir/tests/test_mnode.cpp.obj	27afa22e2e5dda5e
+818	953	8127997686763708	test_mnode.exe	431b157f2a230bf3
+12	318	8127998768150630	CMakeFiles/mnetgw.dir/app/mnetgw.c.obj	7caaf4afbd5f5b43
+318	428	8127998771213228	mnetgw.exe	829b27b8053731c8
